@@ -19,8 +19,8 @@ I liked Linux Survival course. I knew and used some commands before, but cat, ma
 
 [Working With Remotes](https://github.com/AlexandraGres/kottans-frontend/blob/main/task_git_collaboration/1.png)
 
-[Working On Another Developer's Repository](https://github.com/AlexandraGres/kottans-frontend/blob/main/task_git_collaboration/1.png)
+[Working On Another Developer's Repository](https://github.com/AlexandraGres/kottans-frontend/blob/main/task_git_collaboration/2.png)
 
-[Staying In Sync With A Remote Repository](https://github.com/AlexandraGres/kottans-frontend/blob/main/task_git_collaboration/1.png)
+[Staying In Sync With A Remote Repository](https://github.com/AlexandraGres/kottans-frontend/blob/main/task_git_collaboration/3.png)
 
 I didn't use Git in my work before, so it was interesting to learn all these git commands, create repository and work with it.
